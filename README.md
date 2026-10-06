@@ -1,4 +1,4 @@
-<h1>Hi 👋, I'm Tirthrajsinh Jadeja</h1><h2>A passionate web developer</h2><br><br>- 🎓 I'm currently a student in Computer Science & Engineering<br>- 💻 I love working with JavaScript, tailwind, nextjs and React<br>-  📫 How to reach me: jadejatirthrajsinh01@gmail.com
+<h1>Hi 👋, I'm Tirthrajsinh Jadeja</h1><h2>A passionate web developer and data analyst</h2><br><br>- 🎓 I'm currently a student in Computer Science & Engineering<br>- 💻 I love working with JavaScript, tailwind, nextjs and React<br>-  📫 How to reach me: jadejatirthrajsinh01@gmail.com
 
 
 ## 🌐 Socials:
